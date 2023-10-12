@@ -1,0 +1,2 @@
+pythainlp==4.0.2
+Pillow==10.0.1
